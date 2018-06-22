@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Weavers>
+  <Costura>
+    <Unmanaged32Assemblies>
+      steam_api
+    </Unmanaged32Assemblies>
+    <PreloadOrder>
+      steam_api
+    </PreloadOrder>
+  </Costura>
+</Weavers>
